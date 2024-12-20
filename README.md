@@ -8,18 +8,10 @@ Descreva aqui o propósito do seu repositório. O que você está tentando resol
 
 > Este repositório contém o código para o meu projeto de desenvolvimento web, utilizando tecnologias modernas como ReactJS, Node.js, e Tailwind CSS. O objetivo do projeto é criar uma plataforma de e-commerce responsiva e otimizada para dispositivos móveis.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadasgit status
 
 - **ReactJS** - Framework para construção de interfaces de usuário.
 - **Node.js** - Ambiente de execução JavaScript no lado do servidor.
 - **Tailwind CSS** - Framework CSS para design rápido e responsivo.
 - **Next.js** - Framework React para renderização do lado do servidor e construção de sites estáticos.
 - **JavaScript** - Linguagem principal do projeto.
-
-## Instalação
-
-Siga os passos abaixo para clonar e rodar este projeto em sua máquina local.
-
-1. Clonar o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
