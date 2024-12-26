@@ -1,7 +1,3 @@
-Aqui está um modelo para o README sobre um desafio da Digital Innovation One (DIO) para o GitHub: 
-
----
-
 # 🚀 Desafio DIO - Nome do Desafio
 
 Este repositório contém a solução para o desafio **[Nome do Desafio]** proposto pela [Digital Innovation One](https://www.dio.me/). O objetivo deste desafio é **[descrever o objetivo principal, como desenvolver uma aplicação, implementar uma funcionalidade ou resolver um problema específico]**.
@@ -88,6 +84,3 @@ Exemplo:
 - [Documentação do ReactJS](https://react.dev/)
 - [Documentação do Node.js](https://nodejs.org/)
 
----
-
-Sinta-se à vontade para adaptar conforme necessário!
