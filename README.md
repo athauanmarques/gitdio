@@ -1,86 +1,41 @@
-# 🚀 Desafio DIO - Nome do Desafio
+# Operações Básicas em Python
 
-Este repositório contém a solução para o desafio **[Nome do Desafio]** proposto pela [Digital Innovation One](https://www.dio.me/). O objetivo deste desafio é **[descrever o objetivo principal, como desenvolver uma aplicação, implementar uma funcionalidade ou resolver um problema específico]**.
+Repositório dedicado a implementar funções básicas em Python para manipulação de dados, operações matemáticas e manipulação de strings. 
 
-## 📝 Descrição
+Acesse o repositório aqui: [gitdio](https://github.com/athauanmarques/gitdio).
 
-**Descreva brevemente o desafio, incluindo:**
+## Funcionalidades
 
-- O propósito ou o que foi proposto no desafio.
-- As tecnologias ou ferramentas sugeridas.
-- Quais eram os requisitos obrigatórios e diferenciais.
+### 1. Concatenar Dados
+Função para unir diferentes valores em uma única saída, útil para manipulação de textos e formatação de dados.
 
-Exemplo:
-> Este desafio consiste em desenvolver uma aplicação web para gerenciamento de tarefas, utilizando ReactJS no frontend e Node.js no backend. A aplicação deve permitir o cadastro, edição, e exclusão de tarefas, além de persistir os dados em um banco de dados relacional.
+### 2. Operações Matemáticas Básicas
+Implementações que permitem realizar:
+- Soma
+- Subtração
+- Multiplicação
+- Divisão (com verificação de divisão por zero)
 
-## 🚀 Tecnologias Utilizadas
+### 3. Repetição de Strings
+Função que repete uma string por um número determinado de vezes, oferecendo flexibilidade para formatações textuais.
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## Como Usar
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [ReactJS](https://react.dev/)
-- [Node.js](https://nodejs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Outras tecnologias e ferramentas relevantes]
-
-## 📂 Estrutura do Projeto
-
-Estrutura de diretórios:
-
-```
-├── src
-│   ├── components
-│   ├── pages
-│   ├── services
-│   └── styles
-├── public
-├── README.md
-└── package.json
-```
-
-## ⚙️ Como Executar o Projeto
-
-Siga os passos abaixo para rodar este projeto em sua máquina:
-
-1. Clone o repositório:
+1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/athauanmarques/gitdio.git
    ```
-2. Acesse o diretório do projeto:
+2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd gitdio
    ```
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
-4. Execute a aplicação:
-   ```bash
-   npm start
-   ```
+3. Execute os scripts Python diretamente no terminal ou importe as funções no seu projeto.
 
-Acesse em [http://localhost:3000](http://localhost:3000).
+## Contribuições
 
-## 💡 Funcionalidades Implementadas
+Contribuições são sempre bem-vindas! Caso tenha sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-- **Funcionalidade 1**: Descreva brevemente.
-- **Funcionalidade 2**: Descreva brevemente.
+## Licença
 
-## 📋 Requisitos do Desafio
-
-1. **Frontend**: [Descreva os requisitos, como interface ou páginas].
-2. **Backend**: [Descreva as funcionalidades ou endpoints necessários].
-
-## 📌 Aprendizados
-
-**Compartilhe insights ou aprendizados adquiridos durante o desenvolvimento do desafio.**
-
-Exemplo:
-> Durante o desafio, aprendi a configurar rotas dinâmicas no Next.js e a integrar uma API REST com o frontend usando o Axios.
-
-## 🔗 Links Úteis
-
-- [Descrição do Desafio na DIO](https://www.dio.me/)
-- [Documentação do ReactJS](https://react.dev/)
-- [Documentação do Node.js](https://nodejs.org/)
+Este projeto está sob a MIT License. Consulte o arquivo `LICENSE` para mais informações.
 
